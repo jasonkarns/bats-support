@@ -184,6 +184,6 @@ log_test() {
 
 <!-- REFERENCES -->
 
-[bats]: https://github.com/sstephenson/bats
+[bats]: https://github.com/bats-core/bats-core
 [bats-docs]: https://github.com/ztombol/bats-docs
-[bats-assert]: https://github.com/ztombol/bats-assert
+[bats-assert]: https://github.com/bats-core/bats-assert
